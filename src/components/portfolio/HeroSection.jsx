@@ -96,7 +96,7 @@ export default function HeroSection() {
           >
             {[
               { icon: Github, href: 'https://github.com/AKsh258', label: 'GitHub' },
-              { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
+              { icon: Linkedin, href: 'https://www.linkedin.com/in/aksh258', label: 'LinkedIn' },
               { icon: Mail, href: 'mailto:akshaybelduha@gmail.com', label: 'Email' },
             ].map(({ icon: Icon, href, label }) => (
               <a
